@@ -1,0 +1,124 @@
+body { 
+	padding-bottom: 70px; 
+}
+.ui-logo{
+	margin-top: -8px;
+	height: 50px;
+	width: auto;
+}
+
+.ui-navbar{
+	background-color: #991441;
+}
+
+.ui-footbar{
+	background-color: #2C2D2E;
+	text-align: center;
+}
+
+.ui-footbar-content{
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.ui-line-pink{
+	background-color: #FF2DA7;
+	height: 3px;
+	margin-top: -5px;
+}
+
+.ui-nav-container {
+	padding-top: 15px;
+	position: absolute;
+	top: 2%;
+	left: 80%;
+	height: 90px;
+	width: auto;
+}
+
+.ui-nav-text{
+	color: #FFFFFF;
+}
+
+.pad-top{
+	padding-top: 30px;
+}
+a.ui-nav-button{
+	color: #FFFFFF;
+	height:50px;
+	width:90px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	background-color:  #FF2DA7;
+	text-align: center;
+	margin-right: 10px;
+}
+
+.ui-nav-button:active,
+.ui-nav-button:hover {
+	background-color: #949490;
+	background-image: none;
+	outline: 0;
+	color: #991441;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+	      box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+}
+
+.header-img {
+	background-image: url("../img/bg1.jpg");
+	background-size: 100%;
+  background-position-x: 0;
+  background-position-y: 0;
+  background-repeat:no-repeat;
+  background-position: top;
+  background-size: cover;
+  display: block;
+  height: 60vh;
+  left: 0;
+  position: relative;
+  right: 0;
+  z-index: 0;
+  margin-bottom: 20px;
+  margin-top: -10px;
+}
+
+.ui-footer{
+	padding-top:50px;
+	padding-bottom: 50px;
+	padding-left:15vw;
+	padding-right: 15vw;
+}
+
+.white-text{
+	color: #FFFFFF;
+}
+li,ul.yellow-text{
+	color: #B9B611;
+}
+
+.ui-panel-heading1{
+	text-align: center;
+	font-size: 1.2em;
+	background-color: #991441;
+	color: #FFFFFF;
+}
+
+.ui-panel-heading2{
+	text-align: center;
+	font-size: 1.2em;
+	background-color: #2C2D2E;
+	color: #FFFFFF;
+}
+
+.ui-panel-body{
+	border-top-width: 5px;
+	border-top-color: #949490;
+}
+
+.ui-panel-footer{
+	color: #FFFFFF;
+	float: right;
+}

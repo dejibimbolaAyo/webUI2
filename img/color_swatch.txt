@@ -1,0 +1,5 @@
+#FF2DA7		PINK
+#2C2D2E		dark-gray
+#FFFFFF		white
+#949490		light-gray
+#991441		dark-pink
